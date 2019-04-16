@@ -1,0 +1,43 @@
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\Dig_Dug.Form1.resources
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\Dig_Dug.Resources.resources
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\bin\Debug\Dig Dug.exe
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\bin\Debug\Dig Dug.pdb
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\bin\Debug\Dig Dug.xml
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\Dig Dug.exe
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\Dig Dug.xml
+C:\Users\patelde\AppData\Local\Temporary Projects\Dig Dug\obj\x86\Debug\Dig Dug.pdb
+H:\Dig Dug\Dig Dug\obj\x86\Debug\Dig Dug.exe
+H:\Dig Dug\Dig Dug\obj\x86\Debug\Dig Dug.xml
+H:\Dig Dug\Dig Dug\obj\x86\Debug\Dig Dug.pdb
+H:\Dig Dug\Dig Dug\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Dig Dug\Dig Dug\obj\x86\Debug\Dig_Dug.Form1.resources
+H:\Dig Dug\Dig Dug\obj\x86\Debug\Dig_Dug.Resources.resources
+H:\Dig Dug\Dig Dug\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Dig Dug\Dig Dug\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Dig Dug\Dig Dug\bin\Debug\Dig Dug.exe
+H:\Dig Dug\Dig Dug\bin\Debug\Dig Dug.pdb
+H:\Dig Dug\Dig Dug\bin\Debug\Dig Dug.xml
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.exe
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.xml
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.pdb
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\bin\Debug\Dig Dug.exe
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\bin\Debug\Dig Dug.pdb
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\bin\Debug\Dig Dug.xml
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.vbprojResolveAssemblyReference.cache
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig_Dug.Form1.resources
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig_Dug.Resources.resources
+C:\MyData\Personal\Devak\school\projects\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.vbproj.GenerateResource.Cache
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\bin\Debug\Dig Dug.exe
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\bin\Debug\Dig Dug.pdb
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\bin\Debug\Dig Dug.xml
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.vbprojAssemblyReference.cache
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig_Dug.Form1.resources
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig_Dug.Resources.resources
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.vbproj.GenerateResource.cache
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.vbproj.CoreCompileInputs.cache
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.exe
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.xml
+C:\Users\dp\Documents\GitHub\DigDug\Dig Dug\obj\x86\Debug\Dig Dug.pdb
